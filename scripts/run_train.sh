@@ -30,4 +30,3 @@ python lstm/other_train.py -m bidirectional_gru -a attention -s ./model -d ./dat
 wait
 # bi-gru + self-attention
 python lstm/other_train.py -m bidirectional_gru -a self-attention -s ./model -d ./data > logs/train_bi_gru_with_self_attention.log 2>&1 &
-wait
