@@ -1,8 +1,25 @@
 ## 基于 LSTM 三分类的文本情感分析
 
-### 参考项目
+### 参考
+
+项目
 
 `https://github.com/yaokui2018/SentimentAnalysis`和`https://github.com/Edward1Chou/SentimentAnalysis`
+
+参考博客：
+
+- `https://blog.csdn.net/m0_46202073/article/details/109303450`
+- `https://blog.csdn.net/weixin_40959890/article/details/127398128`
+- `https://blog.csdn.net/qq_44951759/article/details/126001215`
+
+数据集：`https://www.kaggle.com/datasets/ashishkumarak/netflix-reviews-playstore-daily-updated`
+
+notebook 参考：`https://www.kaggle.com/code/whoyukiiiiiiiii/netflix-reviews-analyzer/edit`
+
+可视化库参考：
+
+- `https://zhuanlan.zhihu.com/p/644644243`
+- `https://pyecharts.org/#/zh-cn/intro`
 
 ### 安装&使用
 
